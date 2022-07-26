@@ -1,1 +1,9 @@
 
+body {
+  background-image: url("/barbatus/media/hd-parchment.jpg");
+  background-color: CornflowerBlue;
+  background-attachment: fixed;
+  background-size: cover;
+  position: center;
+  color: black;
+}
