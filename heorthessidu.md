@@ -1,3 +1,9 @@
+---
+title: Heorþessidu
+author: Barbatus
+permalink: /heorthessidu
+---
+
 # Heorþessidu
 
 ##  Preparation and Purification
