@@ -1,10 +1,10 @@
 ---
-title: Heorþessidu
+title: Heorþ-sidu
 author: Barbatus
 permalink: /heorthessidu
 ---
 
-# Heorþessidu
+# Heorþ-sidu
 
 ##  Preparation and Purification
 
