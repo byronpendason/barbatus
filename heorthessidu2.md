@@ -1,7 +1,7 @@
 ---
 title: Heorþessidu
 author: Barbatus
-permalink: /heorthessidu
+permalink: /heorthessidu2
 ---
 
 # Heorþessidu
