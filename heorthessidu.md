@@ -1,3 +1,9 @@
+---
+title: Heorþessidu
+author: Barbatus
+permalink: /heorthessidu
+---
+
 #  Preparation and Purification
 
 -   Wash both hands in clean water and say:
