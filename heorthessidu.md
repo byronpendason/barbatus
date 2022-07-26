@@ -397,21 +397,20 @@ O dark Niht
 
 ##  Honoring the Ancestors
 
--   Say the prayer, and after make a small offerings of bread or
-    > beer/wine:
+-   Say the prayer, and after make a small offerings of bread or beer/wine:
 
-Arise O beloved Ancestors
-
+> Arise O beloved Ancestors
+> 
 > Fóre-cynn and Fóre-gengan
-
-Ancestors of Blood
-
-Ancestors of Deed
-
-Named and Unnamed
-
-Known and Unknown
-
+> 
+> Ancestors of Blood
+> 
+> Ancestors of Deed
+> 
+> Named and Unnamed
+> 
+> Known and Unknown
+> 
 > Family of birth or choice, friends, inspiring heroes
 >
 > Those whose loss still cuts deep
@@ -452,8 +451,7 @@ Known and Unknown
 
 ## Honoring the Cofgodas
 
--   Say the prayer, and after make a small offering of bread or
-    > beer/wine:
+-   Say the prayer, and after make a small offering of bread or beer/wine:
 
 > Arise, O Cofgodas
 >
@@ -529,7 +527,7 @@ Known and Unknown
 
 ## Longer-form Prayers:
 
-#### [Ingvi]{.underline}
+#### Ingvi
 
 > Arise, O Ingvi
 >
@@ -589,7 +587,7 @@ Known and Unknown
 >
 > At my supplication, be blessed
 
-#### [Sibb]{.underline}
+#### Sibb
 
 > Arise, O Sibb
 >
@@ -637,7 +635,7 @@ Known and Unknown
 >
 > At my supplication, be blessed
 
-#### [Thunor]{.underline}
+#### Thunor
 
 > Wes hāl, Thunor
 >
