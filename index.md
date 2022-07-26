@@ -2,4 +2,4 @@
 
 ## Rituals
 
-- [Heorþessidu](/heorthessidu)
+- [Heorþessidu](/barbatus/heorthessidu)
