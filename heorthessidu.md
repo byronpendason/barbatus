@@ -58,11 +58,11 @@ permalink: /heorthessidu
 > So that we might honor them
 >
 > Humbly and piously
-
-Warm our hearts as you warm our home
-
-As you have since time immemorial
-
+> 
+> Warm our hearts as you warm our home
+> 
+> As you have since time immemorial
+> 
 > May this offering find favor with you this day
 >
 > May your flames guide us to the gods
@@ -73,8 +73,7 @@ As you have since time immemorial
 
 ##  Honoring the Eternal Gods
 
--   Say each prayer, and a small offering of bread or beer/wine after
-    > each:
+-   Say each prayer, and a small offering of bread or beer/wine after each:
 
 #### Ing
 
