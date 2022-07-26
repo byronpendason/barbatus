@@ -76,7 +76,7 @@ As you have since time immemorial
 -   Say each prayer, and a small offering of bread or beer/wine after
     > each:
 
-#### [Ing]{.underline}
+#### Ing
 
 > Arise, O Ing
 >
@@ -126,7 +126,7 @@ As you have since time immemorial
 >
 > At my supplication, be blessed
 
-#### [Sibb]{.underline}
+#### Sibb
 
 > Arise, O Sibb
 >
@@ -164,7 +164,7 @@ As you have since time immemorial
 >
 > At my supplication, be blessed
 
-#### [Thur]{.underline}
+#### Thur
 
 > Arise, O Thur
 >
@@ -206,7 +206,7 @@ As you have since time immemorial
 >
 > At my supplication, be blessed
 
-#### [Wōden]{.underline}
+#### Wōden
 
 > Arise, O Wōden
 >
@@ -256,7 +256,7 @@ As you have since time immemorial
 >
 > At my supplication, be blessed
 
-#### [Tiw]{.underline}
+#### Tiw
 
 > Arise, O Tiw
 >
@@ -296,7 +296,7 @@ As you have since time immemorial
 >
 > At my supplication, be blessed
 
-#### [Niht]{.underline}
+#### Niht
 
 > Arise, O Niht
 >
@@ -346,7 +346,7 @@ O dark Niht
 >
 > At my supplication, be blessed
 
-#### [Sunne]{.underline}
+#### Sunne
 
 > Arise, O Sunne
 >
