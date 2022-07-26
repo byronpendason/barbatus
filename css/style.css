@@ -1,4 +1,3 @@
-
 body {
   background-image: url("/barbatus/media/hd-parchment.jpg");
   background-color: CornflowerBlue;
@@ -10,4 +9,8 @@ body {
 
 blockquote {
   color: #9e1e10
+}
+
+h3 {
+  text-indent: 2em;
 }
