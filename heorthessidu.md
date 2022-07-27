@@ -689,7 +689,7 @@ O dark Niht
 >
 > At my supplication, be blessed
 
-#### [Wōden]{.underline}
+#### Wōden
 
 > Wes hāl, Wōden All-Fæder
 >
@@ -745,7 +745,7 @@ O dark Niht
 >
 > At my supplication, be blessed
 
-#### [Sulis]{.underline}
+#### Sulis
 
 > Wesaþ hāla, Sulis
 >
@@ -807,7 +807,7 @@ O dark Niht
 >
 > At my supplication, be blessed
 
-#### [Niht]{.underline}
+#### Niht
 
 > Wesaþ hāla, Niht
 >
@@ -842,9 +842,9 @@ O dark Niht
 > And wicked afflictions flee your wrath
 >
 > Whether elfshot, dwarfshot or witch's work
-
-O dark Niht
-
+> 
+> O dark Niht
+> 
 > With this offering to you
 >
 > I ask for your protection and blessings
@@ -869,7 +869,7 @@ O dark Niht
 >
 > At my supplication, be blessed
 
-#### [Tiw]{.underline}
+#### Tiw
 
 > Wes hāl, Tiw
 >
@@ -900,32 +900,5 @@ O dark Niht
 > I ask for your protection and blessings
 >
 > Upon me and my family
->
-> At my supplication, be blessed
-hot or witch's work
-
-O dark Niht
-
-> With this offering to you
->
-> I ask for your protection and blessings
->
-> Upon me and my family
->
-> May we know the gift of health and vitality
->
-> May we find the cure for that which afflicts us
->
-> May we have the strength of recovery
->
-> May we be shielded from future incursion
->
-> May we find respite from the day's toils
->
-> May we rest safely in your protection
->
-> May we know your favor in our lives
->
-> This day and always
 >
 > At my supplication, be blessed
